@@ -1,6 +1,6 @@
 # OPEN_TT
 
-Open-source table tennis rubber development.
+Open-source table tennis equipment development.
 
 ## Why
 
